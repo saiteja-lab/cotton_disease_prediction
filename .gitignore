@@ -8,9 +8,6 @@ __pycache__/
 .venv/
 
 # Model and Data Files
-*.keras
-*.pkl
-*.jpg
 
 # Environment/Dependency
 *.log
