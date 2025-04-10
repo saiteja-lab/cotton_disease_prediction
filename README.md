@@ -49,28 +49,38 @@ cd cotton_disease_prediction
 
 ## For Windows
 
+```bush
 python -m venv .venv
 .venv\Scripts\activate
+```
 
 ## For Linux / macOS
 
+```bush
 python3 -m venv venv
 source venv/bin/activate
+```
 
 ### 3. Install Dependencies
 
+```bush
 pip install -r requirements.txt
+```
 
 ### 4. Project Structure
 
+```bush
 cotton_disease_prediction/
 ├── app.py
 ├── cottonModel/
 │   └── Modelfile (You can create a custom model accordingly)
+```
 
 ### 5. Run the Application
 
+```bush
 python app.py
+```
 
 Then open your browser and go to:
 
